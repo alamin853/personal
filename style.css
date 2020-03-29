@@ -1,0 +1,18 @@
+.half1{
+    width: 40%;
+    border: 1px solid red;
+}
+}
+.main {
+    text-align: center;
+    padding: 50px;
+    border: 1px solid red;
+}
+.half2 {
+    width: 40%;
+    float: right;
+    border: 1px solid red;
+}
+.half2 img {
+    width: 100%;
+}
