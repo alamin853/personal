@@ -1,0 +1,16 @@
+body{
+    background: black url('../images/5.jpg') repeat top center/ 300px auto;
+}
+.p{
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
+}
+.margin{
+    width: 50% ;
+    height: 350px;
+    background: red;
+    margin: 200px auto;
+    padding: 30px;
+}
